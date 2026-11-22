@@ -23,7 +23,7 @@ The project emphasizes the underlying structures and algorithms rather than grap
 | 13 | Sorting | `algorithms/Sorting` | selection, insertion, merge and quick sort |
 | 14 | Applications | `applications/*` | Task Manager, Music Playlist, Syntax Checker |
 
-See [the learning path](docs/LEARNING_PATH.md) for the intended sequence and [complexity notes](docs/COMPLEXITY.md) for asymptotic trade-offs.
+See [complexity notes](docs/COMPLEXITY.md) for asymptotic trade-offs.
 
 ## Requirements
 
