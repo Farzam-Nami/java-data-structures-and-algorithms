@@ -575,4 +575,3 @@ For the script-based `.build` output instead of Maven's `target/classes`, use `j
 | Syntax checking | Delimiter checks are not complete syntax validation. |
 | Test scope | Regression tests exercise many regular and edge cases but cannot guarantee absence of bugs. |
 
-For higher-level concepts, see [Learning Path](LEARNING_PATH.md), [Complexity](COMPLEXITY.md), [Coursework Mapping](COURSEWORK_MAPPING.md), and [Test Report](TEST_REPORT.md).
