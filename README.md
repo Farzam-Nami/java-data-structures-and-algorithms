@@ -25,6 +25,10 @@ The project emphasizes the underlying structures and algorithms rather than grap
 
 See [complexity notes](docs/COMPLEXITY.md) for asymptotic trade-offs.
 
+## Documentation
+
+For detailed explanations of all classes, public methods, internal helpers, parameters, return values, exceptions, and algorithmic complexity, see the [API and Implementation Reference](docs/API_REFERENCE.md).
+
 ## Requirements
 
 - Java Development Kit (**JDK 11 or newer**)
