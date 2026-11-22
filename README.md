@@ -110,6 +110,4 @@ pom.xml
 
 ## Coursework provenance
 
-The initial coursework included linked lists, stack-based source checking, a positional list, a dynamic array, a task manager, a music playlist and linked-list sorting. Existing assignments were normalized into a single package structure; additional core structures and algorithms were implemented to broaden coverage. See [Coursework mapping](docs/COURSEWORK_MAPPING.md) for a more detailed distinction.
-
-The standalone Scoreboard exercise and teacher-provided reference-code folders are not part of this repository.
+The initial coursework included linked lists, stack-based source checking, a positional list, a dynamic array, a task manager, a music playlist and linked-list sorting. Existing assignments were normalized into a single package structure; additional core structures and algorithms were implemented to broaden coverage.
